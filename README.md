@@ -15,7 +15,7 @@ ABC Corporation, a multinational company, aims to address employee attrition cha
    - `EmployeeInfo`: Demographic information, job role, etc.
 2. **IN/OUT Times:** Two sheets extracted from the Clock-In-Machine for year 2015 containing in/out times for all employees.
 
-# Modeling
+# Dimensional Modeling
 
 In our modeling approach, we prioritize the attrition process as the primary business focus, emphasizing key metrics such as attrition rate and total attrition.
 
@@ -25,10 +25,10 @@ In our modeling approach, we prioritize the attrition process as the primary bus
   - Attrition Rate
   - Total Attrition
 
-## Dimensional Model
+## Declare The Grain
 - **Grain:** Each individual employee serves as the primary unit of analysis.
 
-## Primary Dimensions
+## Define The Dimensions
 1. **Employee Information:** 
    - Contains demographic data, job role, and other pertinent employee details.
    
@@ -37,9 +37,12 @@ In our modeling approach, we prioritize the attrition process as the primary bus
    
 3. **Employee Key Performance Indicators (KPIs):**
    - Encompasses data related to employee performance and evaluations, such as manager surveys and other KPI metrics.
+     
+![image](https://github.com/AliMagdy100/Attrition_Analysis_Using_PowerBI/assets/87953057/b2ddabea-fcf9-4678-80e2-5737c10bdd84)
 
-![image](https://github.com/AliMagdy100/Attrition_Analysis_Using_PowerBI/assets/87953057/65432be3-fe38-4aa0-8680-a6025eea5c57)
 
 
-
+## Attrition Dashboard
+**According to Employees Info** 
+![image](https://github.com/AliMagdy100/Attrition_Analysis_Using_PowerBI/assets/87953057/cc871e38-f03a-4b78-a26f-e00793b9879d)
 
