@@ -43,6 +43,17 @@ In our modeling approach, we prioritize the attrition process as the primary bus
 
 
 ## Attrition Dashboard
-**According to Employees Info** 
+1.**According to Employees Info** 
+
 ![image](https://github.com/AliMagdy100/Attrition_Analysis_Using_PowerBI/assets/87953057/cc871e38-f03a-4b78-a26f-e00793b9879d)
+
+
+2.**According to Employees Survey**
+
+![image](https://github.com/AliMagdy100/Attrition_Analysis_Using_PowerBI/assets/87953057/890d41d8-3de8-4791-80ba-d75c1cd77ffa)
+
+3.**According to Employees KPIs**
+
+![image](https://github.com/AliMagdy100/Attrition_Analysis_Using_PowerBI/assets/87953057/1747f76f-f5eb-4370-b524-3ad1b6e2199f)
+
 
