@@ -57,3 +57,5 @@ In our modeling approach, we prioritize the attrition process as the primary bus
 ![image](https://github.com/AliMagdy100/Attrition_Analysis_Using_PowerBI/assets/87953057/1747f76f-f5eb-4370-b524-3ad1b6e2199f)
 
 
+**Find The Key Findings and Insights in the Attached Documentation**
+
